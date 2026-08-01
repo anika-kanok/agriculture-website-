@@ -1,0 +1,85 @@
+/* contact experts section start  */
+.custom-padding{
+    padding:0 100px;
+}
+
+img{
+    height: 30px;
+    width: 30px;
+    
+}
+
+
+.nav-link:hover{
+        color:yellow;
+    }
+
+
+.heading-line{
+    width: 55px ;
+    height: 4px;
+    background-color: rgb(238, 238, 12);
+   text-align: center;
+   padding-top:2px;
+    
+}
+
+
+/* contact experts section end */
+
+
+/* CROP DEATAILS SECTION START  */
+.hero{
+    background-image: url(/imge1/wepik-photo-mode-2022722-16315.jpeg);
+    background-repeat: no-repeat;
+    height: 80vh;
+    width: 100%;
+    background-size: cover;
+}
+.div2{
+    margin-top:-60px;
+}
+.book:hover{
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      margin-top: -5px;
+
+}
+
+
+
+
+.color{
+    color:green;
+    font-size: large;
+}
+
+
+
+/* CROP DEATAILS SECTION EMD  */
+
+
+.hero2{
+    background-image: url(/imge1/images\ \(4\).jpg);
+    background-attachment: fixed;
+}
+
+.div5{
+    color:green;
+    font-size:35px;
+}
+.div4{
+    font-size: 40px;
+    color:blue;
+}
+
+.div3{
+    font-size: 40px;
+    color:rgb(152, 4, 4);
+}
+
+/* home-section start  */
+.hero3{
+    background-image: url(/imge1/images\ \(1\).jpg);
+}
+/* home-section end */
+
