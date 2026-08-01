@@ -59,7 +59,7 @@ img{
 
 
 .hero2{
-    background-image: url(/imge1/images\ \(4\).jpg);
+    background-image: url(../imge1/images\ \(4\).jpg);
     background-attachment: fixed;
 }
 
@@ -79,7 +79,7 @@ img{
 
 /* home-section start  */
 .hero3{
-    background-image: url(/imge1/images\ \(1\).jpg);
+    background-image: url(../imge1/images\ \(1\).jpg);
 }
 /* home-section end */
 
