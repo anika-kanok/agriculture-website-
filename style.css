@@ -30,7 +30,7 @@ img{
 
 /* CROP DEATAILS SECTION START  */
 .hero{
-    background-image: url(/imge1/wepik-photo-mode-2022722-16315.jpeg);
+    background-image: url(./imge1/wepik-photo-mode-2022722-16315.jpeg);
     background-repeat: no-repeat;
     height: 80vh;
     width: 100%;
